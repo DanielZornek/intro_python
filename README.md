@@ -1,2 +1,2 @@
 # intro_python
-Aprendendo Python
+Dando os primeiros passos com a linguagem Python
